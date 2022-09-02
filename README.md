@@ -1,2 +1,3 @@
 # cursoBootstrap4
-Projeto de teste em bootstrap 4 curso Alura
+Desenvolvimento Responsivo com bootstrap curso Alura
+https://gabriela1105.github.io/cursoBootstrap4/
